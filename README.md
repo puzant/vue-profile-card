@@ -10,3 +10,5 @@ profile card built using Vuejs, Typescript, Pug, Sass
 > This repo includes best practices to write modular & scalable code for VueJs components 
 
 > Vuex wasn't used in this project, due to the project size, instead direct `axios.get()` was used directly in a component 
+
+![Card](https://puzant.github.io/portfolio/assets/project-6.png)
